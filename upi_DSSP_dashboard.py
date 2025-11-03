@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 import random
 
 # ---------- Page config & styles ----------
-st.set_page_config(page_title="UPI DSS (Public)", layout="wide", page_icon="💳")
+st.set_page_config(page_title="UPI DSS ", layout="wide", page_icon="💳")
 
 st.markdown(
     """
@@ -443,3 +443,4 @@ for r in recs:
 
 st.markdown("---")
 st.caption("Made by 22MIY0014|22MIY0015|22MIY0070 ")
+
